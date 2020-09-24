@@ -1,0 +1,121 @@
+body{
+    color:#40514E;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 1.5rem;
+}
+h1{
+    margin-top: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.652rem;
+    color: #66BFBF;
+}
+h2{
+    margin: 20px auto 0 auto;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+}
+h3{
+    width: 60%;
+    margin: 25px auto;
+}
+hr{
+    border: dotted #038888 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 50px auto;
+}
+.intro{
+    width: 40%;
+    margin: 2% auto 2% auto;
+    line-height: 2.5rem;
+}
+.subtitle{
+    font-weight: normal;
+    color: #2d9191;
+}
+.heading-container {
+    background-color: #d6efc7;
+    margin: 0 auto;
+    padding-top: 100px;
+    position: relative;
+    line-height: 0.5;
+}
+.Bio-Pic{
+    width: 224px;
+    height: 200px;
+    margin: 0 auto;
+    
+}
+.Web-Development{
+    width: 28%;
+    height: 28%;
+    float: left;
+    margin: 0 4% 0 3%;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 450px;
+    bottom: 300px
+}
+.top-cloud{
+    position: absolute;
+    right: 450px;
+    top: 40px;
+}
+.skill-row{
+   width: 50%;
+   margin: 2% auto 5% auto;   
+   text-align: left;
+   line-height: 1.5;
+   
+}
+.projects{
+    margin-top: 2%;
+    width: 50%;
+    text-align: left;    
+    line-height: 1.5;
+    margin-left: 25%;
+}
+.middle-container{
+   margin: 50px auto;  
+   
+}
+.bottom-container{
+   background-color:  #726a95 ;
+}
+.BUTTON_ZDN{
+    background: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0 auto 20px auto;
+    border-radius: 20px;
+    font-size: 25px;
+    font-weight: 50;
+    padding: 18px;
+    text-decoration: none;
+    display: inline;
+    cursor: pointer;
+    text-align: center;
+}
+.BUTTON_ZDN:hover{
+    background-color: rgba(165, 147, 247, 0.3);
+}
+.Bottom-para{
+    width: 40%;
+    margin: 0 auto 40px auto;
+}
+.footer-link{
+text-decoration: none;
+display: inline-block;
+padding: 10px;
+font-size: 1.8rem;
+}
+.footer-link:hover{
+    background-color: rgba(239, 238, 245, 0.3);
+}
+.rights{
+color: #eaf6f6;
+font-size: 1.4rem;
+}
